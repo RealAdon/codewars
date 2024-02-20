@@ -10,21 +10,13 @@
 # The following picture illustrates the example, and the 23 points are marked green.
 
 # Input/Output
-
 #     [input] integer a
-
 #     A positive even integer.
-
 #     Constraints: 2 ≤ a ≤ 10000.
-
 #     [input] integer b
-
 #     A positive even integer.
-
 #     Constraints: 2 ≤ b ≤ 10000.
-
 #     [output] an integer
-
 #     The number of inner points with integer coordinates.
 
 # Solution:
